@@ -1,0 +1,2 @@
+Purpose
+The Secret OS Kernel is designed as an educational project to demonstrate the fundamentals of operating system development. It features a basic VGA text mode interface and a simple chatbot capable of responding to predefined questions. The kernel serves as a practical example for learning low-level programming, text display handling, and implementing basic interactive functionalities in an operating system environment.
